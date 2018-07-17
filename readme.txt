@@ -1,3 +1,4 @@
-READ ME
+## 写下第一个readme
 
-writedown the first readme.txt
+
+努力学习的小花花，这是一个示例。
